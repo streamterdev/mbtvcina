@@ -1,1 +1,1 @@
-6;https://play.google.com/store/apps/details?id=com.iomedia.streamliver;https://github.com/streamterdev/mbtvcina/blob/master/StreamLiver.apk?raw=true;1;
+6;;https://github.com/streamterdev/mbtvcina/blob/master/StreamLiver.apk?raw=true;1;
